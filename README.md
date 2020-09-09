@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://github.com/AYROLE/rsschool-cv
