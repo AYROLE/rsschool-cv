@@ -14,4 +14,5 @@
     </div>)
 });
 6. Experience none.
-7. English A2, at this moment i go to the English courses.
+7. Education in the IT none.
+8. English A2, at this moment i go to the English courses.
