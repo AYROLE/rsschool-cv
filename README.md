@@ -1,1 +1,1 @@
-# https://github.com/AYROLE/rsschool-cv/cv
+# https://ayrole.github.io/rsschool-cv/cv
